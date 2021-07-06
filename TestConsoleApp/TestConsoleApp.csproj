@@ -3,9 +3,6 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>TP_Theorie_des_langages</RootNamespace>
   </PropertyGroup>
-
-  
 
 </Project>

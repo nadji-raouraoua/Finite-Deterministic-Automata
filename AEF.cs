@@ -154,9 +154,13 @@ namespace TP_Theorie_des_langages
 
                 Lettre = Console.ReadLine();
             }
+<<<<<<< Updated upstream
             object curseur=EtatDepart;
+=======
+            //var curseur = 0;
+>>>>>>> Stashed changes
             /// On passe au transitions
-            /// TODO: ecrire la fonction sigma 22/05/2021
+            // TODO: ecrire la fonction sigma 22/05/2021
         }
     }
 }

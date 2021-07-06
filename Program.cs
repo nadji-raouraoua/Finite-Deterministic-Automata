@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using Accord.Math;
 using static TP_Theorie_des_langages.AEF;
 
 namespace TP_Theorie_des_langages
